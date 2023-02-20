@@ -2,14 +2,14 @@ const { Post } = require('../models');
 
 const postData = [
   {
-    title: 'ORM Mapping',
-    content: 'I have really loved learning about ORM.',
+    title: 'Ten ways to make JavaScript easier to learn',
+    content: 'JavaScript is hard! Here are ten tips and tricks to have an easier time learning the material.',
     user_id: 1
     
   },
   {
-    title: 'Why MVC is import',
-    content: 'MVC allows developers to maintain true separation of concerns.',
+    title: 'Stackoverflow VS w3schools: Which is superior for finding the answers you need?',
+    content: 'There are multiple website you can visit to ask questions and search for the coding answers you need, but which is the best?',
     user_id: 2
   },
   {
